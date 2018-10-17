@@ -1,4 +1,8 @@
 # hello-world2
-This is part of a lesson.
+This is part of an early lesson.
 
-i really know next to nothing about git.
+i really know next to nothing about git. but i'm learning more.
+
+that's all folks!
+
+DONT include this line.
